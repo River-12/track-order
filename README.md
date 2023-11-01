@@ -1,4 +1,4 @@
-# Riverstone Core for Magento 2
+# Riverstone TrackOrder for Magento 2
 
 ## How to install & upgrade Riverstone_TrackOrder
 
