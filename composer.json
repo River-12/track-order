@@ -5,7 +5,8 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": "102.*|103.*",
-        "magento/module-backend": "101.*|102.*"
+        "magento/module-backend": "101.*|102.*",
+        "php" : "7.3,8.1,8.2"
     },
     "authors": [
         {
