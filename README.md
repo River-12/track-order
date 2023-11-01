@@ -10,13 +10,17 @@ Run the following command in Magento 2 root folder.
 1.1 Install
 
 composer require riverstone/track-order
+
 php bin/magento setup:upgrade
+
 php bin/magento setup:static-content:deploy
 
 1.2 Upgrade
 
 composer update riverstone/track-order
+
 php bin/magento setup:upgrade
+
 php bin/magento setup:static-content:deploy
 
 Run compile if your store in Product mode:
