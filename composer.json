@@ -1,13 +1,11 @@
 {
     "name": "riverstone/track-order",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The Module allows admin and customers to track the shipped orders..",
     "type": "magento2-module",
     "minimum-stability": "stable",
     "require": {
-        "magento/framework": "102.*|103.*",
-        "magento/module-backend": "101.*|102.*",
-        "php" : "~5.5.0||~5.6.0||~7.0.0||~7.1.0||~7.2.0||~7.3.0||~7.4.0||~8.1.0||~8.2.0"
+        "magento/module-backend": "101.*|102.*"
     },
     "authors": [
         {
